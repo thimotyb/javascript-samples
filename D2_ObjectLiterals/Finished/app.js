@@ -1,10 +1,10 @@
 var Tony = { 
     firstname: 'Tony', 
-    lastname: 'Alicea',
+    lastname: 'Jones',
     address: {
         street: '111 Main St.',
-        city: 'New York',
-        state: 'NY'
+        city: 'San Francisco',
+        state: 'CA'
     }
 };
 
