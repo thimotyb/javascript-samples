@@ -37,7 +37,9 @@ var d = {
         this.name = this.name + 'Updated d object';
         console.log(this);
     }
-}
+};
+
+d.log();
 
 var e = {
     name: 'The e object',
@@ -53,7 +55,9 @@ var e = {
         console.log(this);
 
     }
-}
+};
+
+e.log();
 
 var f = {
     name: 'The f object',
@@ -70,7 +74,9 @@ var f = {
         console.log(this);
 
     }
-}
+};
+
+f.log();
 
 
 
